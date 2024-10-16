@@ -17,4 +17,4 @@ Note: A lot of the manipulations/code that are executed for the Hasselt region w
         - look at variability of travel times for points within the cluster and restrict this?
         - ... ?
 - disaggregate the SUBZONE layer to the smaller layer (todo: we need a concise name for the new layer)
-    - this is `areal interpolation`, which we have implemented ourselves in the code shared with Inez for her thesis (23-24), but this is unelegant. Consider using the [Tobler Python package](https://github.com/pysal/tobler).
+    - this is `areal interpolation`, which we have implemented ourselves in the code shared with Inez for her thesis (23-24), but this is unelegant. Consider using the [Tobler Python package](https://github.com/pysal/tobler)
