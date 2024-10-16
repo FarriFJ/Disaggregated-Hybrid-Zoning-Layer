@@ -1,0 +1,22 @@
+# conda env create -f environment.yml -n strauss
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - ca-certificates
+  - certifi
+  - geopandas
+  - geopy
+  - jupyter
+  - openpyxl
+  - openssl
+  - osmium-tool
+  - pip
+  - pyogrio
+  - pyrosm
+  - python-slugify
+  - requests
+  - xlwt
+  - pip:
+    - osmium
